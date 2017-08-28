@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre nosotros"
+title: "Bienvenidos a la página web del Equipo 1"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Esta es la ágina web del Equipo 1!
+Esta es la página web del Equipo 1!
 
-Habría que poner algo más.
