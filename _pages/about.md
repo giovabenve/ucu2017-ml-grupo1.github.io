@@ -4,7 +4,7 @@ title: "Sobre nosotros"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
-  - /sobre-nosotros/
+  - /about/
   - /about.html
 ---
 
