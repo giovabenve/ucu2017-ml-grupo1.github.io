@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Equipo 1 - Machine Learning"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Equipo 1"
+description              : &description "Portfolio del Equipo 1"
+url                      : https://ucu2017-ml-grupo1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ucu2017-ml-grupo1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Equipo 1 (Benvenuto - Caamaño - Cicao - Echagüe - Iglesias)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Somos un equipo dinámico y competente con habilidades y conocimientos aplicados a los métodos de aprendizaje automático"
+  location         : "Universidad Católica del Uruguay (UCUDAL)"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ucu2017-ml-grupo1"
   google_plus      :
   keybase          :
   instagram        :
