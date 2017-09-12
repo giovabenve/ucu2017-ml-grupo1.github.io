@@ -5,7 +5,7 @@ permalink: /proyectos/heart_disease
 excerpt: 'Este es un proyecto de prueba 1.'
 date: 2017-09-12
 venue: 'Proyecto 1'
-paperurl: 'https://ucu2017-ml-grupo1.github.io/prueba/heart-disease-prueba.md'
+paperurl: 'https://ucu2017-ml-grupo1.github.io/prueba/heart_disease_readme'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
