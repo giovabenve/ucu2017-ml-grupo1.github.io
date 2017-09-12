@@ -1,9 +1,9 @@
 ---
-title: "Proyecto de prueba 1"
+title: "Caso de Estudio: Heart Disease"
 collection: proyectos
-permalink: /proyectos/proyecto_prueba_1
+permalink: /proyectos/heart_disease
 excerpt: 'Este es un proyecto de prueba 1.'
-date: 2017-11-09
+date: 2017-09-12
 venue: 'Proyecto 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
