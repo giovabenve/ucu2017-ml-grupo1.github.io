@@ -9,7 +9,7 @@ paperurl: 'https://ucu2017-ml-grupo1.github.io/prueba/heart_disease_readme'
 ---
 
 
-[Descargue el documento completo aqui](https://ucu2017-ml-grupo1.github.io/files/Caracteristicas del problema.pdf)
+[Descargue el documento completo aqui](https://ucu2017-ml-grupo1.github.io/files/Caracteristicas_del_problema.pdf)
 
 [Ver ReadMe del dataset y modelo](https://ucu2017-ml-grupo1.github.io/prueba/heart_disease_readme)
 
