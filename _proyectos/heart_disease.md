@@ -4,7 +4,7 @@ collection: proyectos
 permalink: /proyectos/heart_disease
 excerpt: 'Este es un proyecto de prueba 1.'
 date: 2017-09-12
-venue: 'Proyecto 1'
+venue: 'Métodos de Aprendizaje Automático'
 paperurl: 'https://ucu2017-ml-grupo1.github.io/prueba/heart_disease_readme'
 ---
 
