@@ -6,6 +6,7 @@ excerpt: 'ReadMe.'
 date: 2017-09-12
 venue: 'Proyecto 1'
 paperurl: 'https://ucu2017-ml-grupo1.github.io/proyectos/heart-disease.md'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 Case study: http://archive.ics.uci.edu/ml/datasets/heart+Disease
